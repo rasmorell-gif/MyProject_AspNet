@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KbU7ZI0AwMkkKoZ6Il48INpMOrJ3vCla7Ej8LLqc54+3RO+95eWZt8I6c5A94qrIs8PpAMFm9c9xP2AudFQn9w==",
+  "success": true,
+  "projectFilePath": "/Users/ramonasantos/Desktop/ProgramacionCsharp/MySolution/MyProject/MyProject.csproj",
+  "expectedPackageFiles": [
+    "/Users/ramonasantos/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
